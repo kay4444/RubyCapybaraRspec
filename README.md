@@ -10,6 +10,7 @@ Steps to run test cases:
 3) Install bundles via running:
 
 `bundle install`
+
 4) Run tests from 'Test_spec/test_spec.rb' directory via running:
 
 `rspec Test_spec/test_spec.rb`
